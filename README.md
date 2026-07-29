@@ -1,4 +1,4 @@
-# Hi, I'm Pranav Kumar
+# Hi, I'm Pranav
 
 Software Engineer with a Master's in Software Engineering from Arizona State University. I enjoy building scalable backend systems, developing AI-powered applications, and solving real-world problems through software.
 
