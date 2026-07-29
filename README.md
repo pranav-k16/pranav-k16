@@ -1,16 +1,22 @@
-## Hi there
+# Hi, I'm Pranav Kumar
 
-<!--
-**pranav-k16/pranav-k16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with a Master's in Software Engineering from Arizona State University. I enjoy building scalable backend systems, developing AI-powered applications, and solving real-world problems through software.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, Java, C++, SQL
+
+**Backend:** FastAPI, Django, Flask, REST APIs
+
+**Databases:** PostgreSQL, MySQL, MongoDB
+
+**AI/ML:** PyTorch, TensorFlow, OpenCV, Scikit-learn
+
+**Tools:** Git, Docker, Linux, AWS
+
+## Interests
+
+- Backend Engineering
+- Artificial Intelligence & Machine Learning
+- Distributed Systems
+- Cloud Computing
